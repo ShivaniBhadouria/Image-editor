@@ -3,7 +3,7 @@
 ## :bulb: Introduction :
 
 ### It is a simple web application to add effects, filters and edit an image.
-### You can find the application **[here](https://dhanrajchaurasia.github.io/Image-Editor-Project/).**
+### You can find the application **[here](https://shivanibhadouria.github.io/Image-Editor-Project/).**
 
 
 ## :star2: Features : 
