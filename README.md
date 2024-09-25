@@ -3,7 +3,7 @@
 ## :bulb: Introduction :
 
 ### It is a simple web application to add effects, filters and edit an image.
-### You can find the application **[here](https://shivanibhadouria.github.io/Image-Editor-Project/).**
+### You can find the application **[here](https://shivanimage.netlify.app/).**
 
 
 ## :star2: Features : 
